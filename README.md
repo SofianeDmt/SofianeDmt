@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at my **[website](https://sofianedmt.github.io/)**
 
-- 💬 Ask me about **Design** and **Apple product** <img src="https://user-images.githubusercontent.com/77084325/185496814-c3938b8e-886b-44b5-99d9-c4dc93041ba5.svg" width="35px" align="bottom">
+- 💬 Ask me about **Design** and **Apple product** <img src="https://user-images.githubusercontent.com/77084325/185496814-c3938b8e-886b-44b5-99d9-c4dc93041ba5.svg" width="35px">
 
 - 👨🏽‍💻 I code on **MacOS** and on the **IntelliJ IDE**
 
