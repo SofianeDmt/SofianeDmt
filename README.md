@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP and Symfony**
 
-- 👨‍💻 All of my projects are available at [https://sofianedmt.github.io/](https://sofianedmt.github.io/)
+- 👨‍💻 All of my projects are available at [my website](https://sofianedmt.github.io/)
 
 - 💬 Ask me about **Design and Apple product**
 
@@ -25,6 +25,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sofianedmt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sofianedmt" /></a></p><br><br><br>
 
+<h3 align="left">Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofianedmt&show_icons=true&locale=en" alt="sofianedmt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofianedmt&" alt="sofianedmt" /></p>
