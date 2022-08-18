@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sofiane</h1>
-<h3 align="center">Front End Developper ReactJS/PHP 💻</h3>
+<h3 align="center">Front End Developper ReactJS/PHP 💻</h3><br>
 
-- 🌱 I’m currently learning **PHP and Symfony**
+- 🌱 I’m currently learning **PHP** and **Symfony**
 
-- 👨‍💻 All of my projects are available at [my website](https://sofianedmt.github.io/)
+- 👨‍💻 All of my projects are available at my **[website](https://sofianedmt.github.io/)**
 
-- 💬 Ask me about **Design and Apple product**
+- 💬 Ask me about **Design** and **Apple product**
 
 - 📫 How to reach me **sofiane.dmt@hotmail.fr**
 
