@@ -33,3 +33,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofianedmt&" alt="sofianedmt" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofianedmt&show_icons=true&locale=en&layout=compact" alt="sofianedmt" /></p>
+
+<a href="https://app.daily.dev/SofianeDmt"><img src="https://api.daily.dev/devcards/690615dec3ab495cab771a119f88d314.png?r=ccm" width="400" alt="Sofiane's Dev Card"/></a>
