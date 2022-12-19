@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP** and **Symfony**
 
-- 👨‍💻 All of my projects are available at my **[website](https://sofianedmt.github.io/)**
+- 👨‍💻 All of my projects are available at my **[website](https://sofianedmt.com)**
 
 - 💬 Ask me about **Design** and **Apple product** <img src="https://user-images.githubusercontent.com/77084325/185497713-5061c1d6-783a-4117-b298-5138e4fead25.svg" width="30px">
 
