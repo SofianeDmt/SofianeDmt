@@ -1,7 +1,7 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">,    I'm Sofiane</h1>
 <h3 align="center">Developer Web/Mobile ReactJS/NextJS 💻/📱</h3><br>
 
-- 🌱 I'm currently building my **portfolio** and working on **client projects**
+- 🌱 I'm currently building a **client projects**
 
 - 👨‍💻 All of my projects are available at my **[website](https://www.sofianedmt.com)**
 
